@@ -64,6 +64,7 @@ const loopScentence = storyWords.forEach((word) => {
 });
 console.log(sentencesCount);
 console.log(sentences);
+// Function that Logs
 const logIn = (a, i, e, o, u) => {
 	console.log(`Word Counts : ${a.length}`);
 	console.log(`Sentences Counts : ${i}`);
